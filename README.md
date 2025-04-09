@@ -7,7 +7,7 @@ This project demonstrates how to install and configure Fail2Ban on a Linux serve
 
 ### Step 1: Update the System
 Make sure your system is up to date. Run the following command to update and upgrade your system packages:
-```bash
+
 sudo apt update && sudo apt upgrade -y
 
 ### Step 2: Install Fail2Ban
