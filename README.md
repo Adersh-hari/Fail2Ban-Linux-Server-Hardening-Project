@@ -1,7 +1,7 @@
 # Fail2Ban-Linux-Server-Hardening-Project
 
 ## Project Overview
-This project focuses on hardening a Linux server by installing and configuring Fail2Ban, a powerful tool to protect servers from brute-force attacks and unauthorized access attempts.
+This project demonstartes how to configure Fail2Ban for linux server hardening , specislly to protect SSH access from brute-force attacks. Fail2Ban monitors failed login attempts and blocks Ip addressess that exhibit malicious behavior.
 
 ## Skills and Topics Covered
 - Linux System Administration
