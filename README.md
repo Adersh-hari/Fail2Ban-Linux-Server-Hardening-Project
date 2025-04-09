@@ -58,7 +58,7 @@ This command should show the status of your SSH protection, including the number
 
 I have included the Fail2Ban configuration file as part of this repository. You can find the configuration file here:
 
-(fail2ban-jail-local.txt)
+(fail2ban-jail-local.txt)[https://github.com/Adersh-hari/Fail2Ban-Linux-Server-Hardening-Project/blob/main/fail2ban-jail-local.txt]
 
 
 ## Conclusion
