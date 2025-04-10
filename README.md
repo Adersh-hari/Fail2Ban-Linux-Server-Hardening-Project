@@ -56,11 +56,11 @@ Check if the Fail2Ban service is running properly:
 Bash
 
 
-sudo systemctl status fail2ban
+sudo systemctl status fail2ban[]
 
 You should see the status of Fail2Ban as active, indicating that it's running correctly.
 
-### Step 6: Check Fail2Ban Logs
+### Step 6: Check Fail2Ban Logs[]
 
 To verify that Fail2Ban is successfully protecting your SSH service, use the following command:
 
