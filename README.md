@@ -56,7 +56,7 @@ Check if the Fail2Ban service is running properly:
 Bash
 
 
-sudo systemctl status fail2ban[]
+sudo systemctl status fail2ban [https://github.com/Adersh-hari/Fail2Ban-Linux-Server-Hardening-Project/blob/main/Fail2Ban%20Service%20status.png]
 
 You should see the status of Fail2Ban as active, indicating that it's running correctly.
 
