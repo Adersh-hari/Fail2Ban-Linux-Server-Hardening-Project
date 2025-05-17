@@ -52,7 +52,8 @@ Check if the Fail2Ban service is running properly:
 
 You should see the status of Fail2Ban as active, indicating that it's running correctly.
 
-### Step 6: [Check Fail2Ban Logs](https://github.com/Adersh-hari/Fail2Ban-Linux-Server-Hardening-Project/blob/main/Fail2ban%20SSH%20Status.png)
+### Step 6:Check Fail2Ban Logs
+[Check Fail2Ban Logs](https://github.com/Adersh-hari/Fail2Ban-Linux-Server-Hardening-Project/blob/main/Fail2ban%20SSH%20Status.png)
 
 To verify that Fail2Ban is successfully protecting your SSH service, use the following command:
 
@@ -64,7 +65,7 @@ This command should show the status of your SSH protection, including the number
 
 I have included the Fail2Ban configuration file as part of this repository. You can find the configuration file here:
 
-(fail2ban-jail-local.txt)[https://github.com/Adersh-hari/Fail2Ban-Linux-Server-Hardening-Project/blob/main/fail2ban-jail-local.txt]
+[fail2ban-jail-local.txt](https://github.com/Adersh-hari/Fail2Ban-Linux-Server-Hardening-Project/blob/main/fail2ban-jail-local.txt)
 
 
 ## Conclusion
